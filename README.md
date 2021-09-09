@@ -1,9 +1,9 @@
 
 ## <a href="https://ievgend2.github.io/portfolio2.0/#/">ID | Portfolio</a>
-<p align="center">
+
  <span>🧐 Interested in full stack. Recent focus on frontend.</span>
  <span>🎓 Master of Science in Civil Engineering, Major GPA 3.74/4.0</span>
-  </p>
+
 <!--
 **ievgend2/ievgend2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
