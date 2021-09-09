@@ -1,4 +1,4 @@
-## 👋 Hi there i am ievgen and welcome to my ~~world~~ portfolio
+## <a href="https://ievgend2.github.io/portfolio2.0/#/">Click on me</a>
 
 - 🧐 Interested in full stack. Recent focus on frontend.
 - 🎓 Master of Science in Civil Engineering, Major GPA 3.74/4.0
