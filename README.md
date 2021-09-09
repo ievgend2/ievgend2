@@ -1,5 +1,7 @@
-### Hi there 👋
+## 👋 Hi there i am ievgen 
 
+- 🧐 Interested in full stack. Recent focus on frontend.
+- 🎓 Master of Science in Civil Engineering, Major GPA 3.74/4.0
 <!--
 **ievgend2/ievgend2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
