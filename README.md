@@ -1,5 +1,5 @@
 
-## <a href="https://ievgend2.github.io/portfolio2.0/#/">ID | Portfolio</a>
+## <a href="https://ievgend2.github.io/portfolio/#/">ID | Portfolio</a>
 
 
 🧐 Interested in full stack. Recent focus on frontend.  
