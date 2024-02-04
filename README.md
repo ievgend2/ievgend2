@@ -1,7 +1,7 @@
-
+<!--
 ## <a href="https://ievgend2.github.io/portfolio/#/">ID | Portfolio</a>
 
-<!--
+
 🧐 Interested in full stack. Recent focus on frontend.  
 🎓 Master of Science in Civil Engineering, Major GPA 3.74/4.0  
 
